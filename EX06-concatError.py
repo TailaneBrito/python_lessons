@@ -4,7 +4,7 @@ year=2017
 yo=22
 
 print ("Hello" + person + " you are" +
-yo + " on " year)
+yo + " on " + year)
 
 #esse erro acontece porque o python tenta
 #fazer operacoes aritmeticas juntando
